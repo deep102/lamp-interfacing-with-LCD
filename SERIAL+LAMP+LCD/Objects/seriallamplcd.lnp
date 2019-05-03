@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\seriallamplcd.obj" 
+TO ".\Objects\seriallamplcd" 
+PRINT(".\Listings\seriallamplcd.m51") RAMSIZE(256) 
